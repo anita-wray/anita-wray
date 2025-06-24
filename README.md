@@ -10,3 +10,9 @@ Harms, J.H., **Wray, A.,** Hyde, J.R., Longo, G.C., Hempelmann, J.A., Elz, A.E.,
 **Wray, A.,** Petrou, E., Nichols, K. M., Pacunski, R., LeClair, L., Andrews, K. S., Haggarty, D., & Hauser, L. (2025). Divergent Population Structure in Five Common Rockfish Species of Puget Sound, WA Suggests the Need for Species-Specific Management. Molecular Ecology, 34(1), e17590. [Open Access Link](https://doi.org/10.1111/mec.17590)
 
 **Wray, A.,** Petrou, E., Nichols, K. M., Pacunski, R., LeClair, L., Andrews, K. S., Kardos, M., & Hauser, L. (2024). Contrasting effect of hybridization on genetic differentiation in three rockfish species with similar life history. Evolutionary Applications, 17(7), e13749. [Open Access Link](https://doi.org/10.1111/eva.13749)
+
+
+### Links to current work:
+[Southern California Shelf Rockfish Hook and Line Survey](https://www.fisheries.noaa.gov/west-coast/science-data/southern-california-shelf-rockfish-hook-and-line-survey)
+
+['Omics Seminar Recording - February 2025](https://youtu.be/9o9XcwpRj84?feature=shared)
