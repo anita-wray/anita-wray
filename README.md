@@ -5,7 +5,7 @@ I am currently a genetic data analyst contractor for the Genetics and Evolution 
 
 
 ### Publications:
-Harms, J.H., **Wray, A.,** Hyde, J.R., Longo, G.C., Hempelmann, J.A., Elz, A.E., Barnhart, R.M., Benante, J.A., Chappell, A.C., Frey, P.H., Jones, C.L., Kamikawa, B., Keller, A.A., Lagmay, R., Lam, L.S., McDonald, P.J., Park, L., Ramón-Laca, A.,  Rodriguez, O., Simon, V.H., Thompson, M., Villareal, J., Nichols, K.M., A comparison of the biology and distribution of vermilion rockfish (Sebastes miniatus) and its cryptic pair, sunset rockfish (S. crocotulus) along the US West Coast. Fisheries Research, 290, 107504. [Link](https://doi.org/10.1016/j.fishres.2025.107504)
+Harms, J.H., **Wray, A.,** Hyde, J.R., Longo, G.C., Hempelmann, J.A., Elz, A.E., Barnhart, R.M., Benante, J.A., Chappell, A.C., Frey, P.H., Jones, C.L., Kamikawa, B., Keller, A.A., Lagmay, R., Lam, L.S., McDonald, P.J., Park, L., Ramón-Laca, A.,  Rodriguez, O., Simon, V.H., Thompson, M., Villareal, J., Nichols, K.M., A comparison of the biology and distribution of vermilion rockfish (<i>Sebastes miniatus</i>) and its cryptic pair, sunset rockfish (<i>S. crocotulus</i>) along the US West Coast. Fisheries Research, 290, 107504. [Link](https://doi.org/10.1016/j.fishres.2025.107504)
 
 **Wray, A.,** Petrou, E., Nichols, K. M., Pacunski, R., LeClair, L., Andrews, K. S., Haggarty, D., & Hauser, L. (2025). Divergent Population Structure in Five Common Rockfish Species of Puget Sound, WA Suggests the Need for Species-Specific Management. Molecular Ecology, 34(1), e17590. [Open Access Link](https://doi.org/10.1111/mec.17590)
 
